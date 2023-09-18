@@ -1,5 +1,9 @@
 # Aprendiendo Machine Learning
 ## Recursos
-- [https://learning.edx.org/course/course-v1:URosarioX+URX59+2T2023/home](Introducción a Machine Learning)
+- (Introducción a Machine Learning)[https://learning.edx.org/course/course-v1:URosarioX+URX59+2T2023/home]
 
 ## IA vs Machine Learning
+| IA           | Machine learning |
+| ------------ | ------------ |
+| Desarrollar sistemas      | Permite que las máquinas aprendan sin ser expresamente programadas para ello.      |
+| Modelo basado e datos       | Dato 5       |
