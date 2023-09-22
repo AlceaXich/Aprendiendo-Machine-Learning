@@ -1,6 +1,6 @@
 # Aprendiendo Machine Learning
 ## Recursos
-- (Introducción a Machine Learning)[https://learning.edx.org/course/course-v1:URosarioX+URX59+2T2023/home]
+- [Introducción a Machine Learning](https://learning.edx.org/course/course-v1:URosarioX+URX59+2T2023/home)
 
 ## IA vs Machine Learning
 | IA           | Machine learning |
