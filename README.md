@@ -10,7 +10,10 @@
 | Inteligencia artificial fuerte e inteligencia artificial debil  | Metodos modernos: aprendizaje profundo, aprendizaje por refuerzo
 
 ## Machine learning (aprendizaje automatico)
+![machine learning](./images/machinelearning.jpg)
+#### Metodos clasicos
 - **Aprendizaje supervisado:** Relaciona un conjunto de variables de entrada con unas de salidad, las variables de entrada y salida son conocidas. Hay marcadores.
 - **Aprendizaje no supervisado:** Hay datos de entrada pero no hay una variable de salida. No hay marcadores.
-
-![machine learning](./images/machinelearning.png)
+### Metodos modernos
+- **Aprendizaje profundo:** para mitigar la complejidad, se realiza la extracion y seleccion de caracteristicas.
+- **Aprendizaje por refuerzo:** entrenar un sistema para que realize una tarea dada.
