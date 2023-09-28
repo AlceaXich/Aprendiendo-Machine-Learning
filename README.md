@@ -21,4 +21,10 @@
 - **Aprendizaje por refuerzo:** entrenar un sistema para que realize una tarea dada.
 
 ## Regresion Lineal
-- Los modelos de regresión permiten explicar la relación que existe entre variables independientes y dependientes.
+
+![machine learning](./images/ModelodeRegresion.jpg)
+
+- Los modelos de regresión permiten explicar la relación que existe entre un conjunto de datos de entrada(**variables independientes**) con un conjunto de datos de salida(**variables dependientes**).
+  - variables independientes: se pueden modificar
+  - variables dependientes: dependen de las variables dependientes y el modelo.
+- 
