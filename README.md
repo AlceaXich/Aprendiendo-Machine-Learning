@@ -27,13 +27,16 @@
 - Los modelos de regresión permiten explicar la relación que existe entre un conjunto de datos de entrada(**variables independientes**) con un conjunto de datos de salida(**variables dependientes**).
   - variables independientes: se pueden modificar
   - variables dependientes: dependen de las variables dependientes y el modelo.
-- **Ojetivo:** encontrar una funcion que relacione los datos de entrada *x*  con una salida *y*.
-  $y=f(x)+\varepsilon $
-  Donde:
+- **Objetivo:** encontrar una funcion que relacione los datos de entrada *x*  con una salida *y*.
+    $y=f(x)+\varepsilon $
+    Donde:
     - y -> Variable dependiente
     - x -> Variable independiente
     - $\varepsilon$ -> error de prediccion(**Nota: tiene que ser lo mas pequeño posible**)
     - $f(x)$ -> modelo matematico
 - Modelo simple: a y b son los parametros del modelo.
-  - Objetivo: encontrar valores de a y b que minimizen el error entre los valores observados y la estimacion del modelo.
-- 
+  - Objetivo: encontrar valores de *a* y *b* que minimizen el error entre los valores observados y la estimacion del modelo. El modelo debe ser lineal en funcion a los parametros.
+    - $y=ax + b +\varepsilon $
+- Modelo mas complejo:
+  -  $y=\theta _{0} + \theta _{1}x + \theta _{2}x^{2} + ... + \theta _{n}x^{n}+\varepsilon $
+  -  Modelo no lineal entre *x* y *y*, pero lineal entre los $\theta_{i}$
